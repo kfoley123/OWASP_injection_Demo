@@ -1,0 +1,37 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+npm/
+package-lock.json
+
+# Docker
+.docker/
+docker-compose.yml
+
+# Environment variables
+.env
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# SQLite3 Database (if you add one in the future)
+*.sqlite3
+
+# Build output
+/dist/
+build/
+
+# Docker build
+docker/
